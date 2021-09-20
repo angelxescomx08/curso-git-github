@@ -1,6 +1,7 @@
 # Curso git
 
-En este rpositorio se encuentran las notas del curso de git y github impartido por ESCOM-IPN.
+En este repositorio se encuentran las notas del curso de git y github impartido por ESCOM-IPN.
+NOTA: la pagina web solo es para hacer pruebas.
 
 ## Comandos
 
