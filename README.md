@@ -80,6 +80,6 @@ Permite moverte a cierta rama.
 
 ### git pull
 
-Trae los cambios nuevos y los mezcla con la rama actual.
+Trae los cambios nuevos y los mezcla con la rama actual, una buena practica es ejecutar este comando antes de un git push.
 
 ```git pull```
