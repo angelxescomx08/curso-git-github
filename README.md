@@ -77,3 +77,9 @@ Crear rama:
 Permite moverte a cierta rama.
 
 ```git checkout nombre_rama```
+
+### git pull
+
+Trae los cambios nuevos y los mezcla con la rama actual.
+
+```git pull```
